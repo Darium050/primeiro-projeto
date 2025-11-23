@@ -1,0 +1,362 @@
+[
+    {
+        "nome": "Ferrari",
+        "descricao": "A Ferrari é uma fabricante italiana de carros esportivos de luxo com sede em Maranello.",
+        "criacao": 1940,
+        "link": "https://www.ferrari.com/en-EN/history",
+        "tags": [
+            "italiana",
+            "luxo",
+            "esportivo",
+            "maranello"
+        ]
+    },
+    {
+        "nome": "Lamborghini",
+        "descricao": "A Lamborghini é uma fabricante italiana de carros esportivos de luxo fundada em 1963 por Ferruccio Lamborghini.",
+        "criacao": 1963,
+        "link": "https://www.lamborghini.com/en-en/brand/history",
+        "tags": [
+            "italiana",
+            "luxo",
+            "esportivo",
+            "supercarro"
+        ]
+    },
+    {
+        "nome": "Porsche",
+        "descricao": "A Porsche é uma fabricante alemã de automóveis esportivos de luxo, conhecida por seus modelos de alto desempenho como o 911.",
+        "criacao": 1931,
+        "link": "https://www.porsche.com/international/aboutporsche/christophorus-magazine/archive/346/article-milestones/",
+        "tags": [
+            "alemã",
+            "luxo",
+            "esportivo",
+            "911"
+        ]
+    },
+    {
+        "nome": "Bugatti",
+        "descricao": "A Bugatti é uma fabricante francesa de carros de luxo e alto desempenho, conhecida por produzir alguns dos carros mais rápidos e exclusivos do mundo.",
+        "criacao": 1909,
+        "link": "https://www.bugatti.com/the-bugatti-story/history/",
+        "tags": [
+            "francesa",
+            "luxo",
+            "hipercarro",
+            "velocidade"
+        ]
+    },
+    {
+        "nome": "McLaren",
+        "descricao": "A McLaren Automotive é uma fabricante britânica de carros esportivos de luxo, com uma forte herança no automobilismo, especialmente na Fórmula 1.",
+        "criacao": 1985,
+        "link": "https://cars.mclaren.com/en/about/our-story",
+        "tags": [
+            "britânica",
+            "luxo",
+            "esportivo",
+            "fórmula 1"
+        ]
+    },
+  {
+    "nome": "Tesla",
+    "descricao": "Pioneira em veículos elétricos de alta performance, conhecida por sua tecnologia de software e foco em direção autônoma.",
+    "criacao": "2003",
+    "link": "https://www.tesla.com/about",
+    "tags": [
+      "Elétrico",
+      "Tecnologia",
+      "Autônomo",
+      "Performance"
+    ]
+  },
+  {
+    "nome": "Koenigsegg",
+    "descricao": "Fabricante sueco de hipercarros, focado em engenharia extrema, inovação e recordes mundiais de velocidade.",
+    "criacao": "1994",
+    "link": "https://www.koenigsegg.com/history",
+    "tags": [
+      "Hipercarro",
+      "Exclusivo",
+      "Sueco",
+      "Performance Extrema"
+    ]
+  },
+  {
+    "nome": "Pagani",
+    "descricao": "Fabricante italiano de supercarros artesanais, célebre pela fusão de arte e ciência em seu design e construção.",
+    "criacao": "1992",
+    "link": "https://www.pagani.com/en/history/",
+    "tags": [
+      "Supercarro",
+      "Artesanal",
+      "Exótico",
+      "Luxo"
+    ]
+  },
+  {
+    "nome": "Aston Martin",
+    "descricao": "Sinônimo de elegância, carros esportivos de luxo britânicos e frequentemente associado à franquia James Bond.",
+    "criacao": "1913",
+    "link": "https://www.astonmartin.com/en/history",
+    "tags": [
+      "Luxo",
+      "Esportivo",
+      "Britânico",
+      "Gran Turismo"
+    ]
+  },
+  {
+    "nome": "Audi",
+    "descricao": "Marca alemã premium conhecida pelo slogan 'Vorsprung durch Technik', focada em qualidade de construção e sistemas de tração integral Quattro.",
+    "criacao": "1909",
+    "link": "https://www.audi.com/en/company/history.html",
+    "tags": [
+      "Premium",
+      "Alemão",
+      "Quattro",
+      "Tecnologia"
+    ]
+  },
+  {
+    "nome": "BMW",
+    "descricao": "Fabricante bávaro focado em performance de condução e design dinâmico, popularizando o conceito de sedãs esportivos.",
+    "criacao": "1916",
+    "link": "https://www.bmwgroup.com/en/company/history.html",
+    "tags": [
+      "Performance",
+      "Alemão",
+      "Premium",
+      "Esportivo"
+    ]
+  },
+  {
+    "nome": "Mercedes-Benz",
+    "descricao": "Marca que representa o ápice do luxo e da engenharia automotiva alemã, inventora do primeiro automóvel moderno.",
+    "criacao": "1926",
+    "link": "https://www.mercedes-benz.com/en/company/history/",
+    "tags": [
+      "Luxo",
+      "Alemão",
+      "Premium",
+      "Inovação"
+    ]
+  },
+  {
+    "nome": "Toyota",
+    "descricao": "Maior fabricante de automóveis do mundo, conhecido por sua confiabilidade, durabilidade e pioneirismo na tecnologia híbrida.",
+    "criacao": "1937",
+    "link": "https://global.toyota/en/company/history/",
+    "tags": [
+      "Confiabilidade",
+      "Híbrido",
+      "Global",
+      "Durabilidade"
+    ]
+  },
+  {
+    "nome": "Honda",
+    "descricao": "Fabricante japonês com forte foco em engenharia de motores, performance eficiente (VTEC) e motocicletas.",
+    "criacao": "1948",
+    "link": "https://global.honda/about/history.html",
+    "tags": [
+      "Eficiência",
+      "Japonês",
+      "Engenharia",
+      "Esportivo"
+    ]
+  },
+  {
+    "nome": "Ford",
+    "descricao": "Marca americana icônica, responsável por revolucionar a produção industrial e criadora de lendas como o Mustang e a Série F.",
+    "criacao": "1903",
+    "link": "https://corporate.ford.com/about/history.html",
+    "tags": [
+      "Americano",
+      "Muscle Car",
+      "Caminhonete",
+      "Massa"
+    ]
+  },
+  {
+    "nome": "Volkswagen",
+    "descricao": "O 'Carro do Povo' alemão, conhecido por modelos globais e por ser o centro de um dos maiores grupos automotivos do mundo.",
+    "criacao": "1937",
+    "link": "https://www.volkswagenag.com/en/group/history.html",
+    "tags": [
+      "Alemão",
+      "Volume",
+      "Popular",
+      "Eletrificação"
+    ]
+  },
+  {
+    "nome": "Volvo",
+    "descricao": "Marca sueca mundialmente famosa por seu foco inabalável em segurança e, atualmente, na eletrificação e design minimalista.",
+    "criacao": "1927",
+    "link": "https://www.volvocars.com/br/v/about/our-story",
+    "tags": [
+      "Segurança",
+      "Sueco",
+      "Premium",
+      "Eletrificação"
+    ]
+  },
+  {
+    "nome": "Lotus",
+    "descricao": "Fabricante britânico de carros esportivos leves, guiado pela filosofia 'Simplify, then add lightness'.",
+    "criacao": "1948",
+    "link": "https://www.lotuscars.com/en-US/about-us/heritage/",
+    "tags": [
+      "Leveza",
+      "Esportivo",
+      "Britânico",
+      "Pista"
+    ]
+  },
+  {
+    "nome": "Alfa Romeo",
+    "descricao": "Marca italiana com um legado de corrida, conhecida por seu design passional, estilo e performance emocionante.",
+    "criacao": "1910",
+    "link": "https://www.alfaromeo.com/history",
+    "tags": [
+      "Italiano",
+      "Paixão",
+      "Esportivo",
+      "Design"
+    ]
+  },
+  {
+    "nome": "Rivian",
+    "descricao": "Startup americana focada em picapes e SUVs elétricos robustos, projetados para aventura e uso off-road.",
+    "criacao": "2009",
+    "link": "https://stories.rivian.com/company-history",
+    "tags": [
+      "Elétrico",
+      "Off-road",
+      "Startup",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Lucid Motors",
+    "descricao": "Fabricante de veículos elétricos de luxo com foco em autonomia máxima e inovação em eficiência de bateria.",
+    "criacao": "2007",
+    "link": "https://www.lucidmotors.com/about",
+    "tags": [
+      "EV",
+      "Luxo",
+      "Alta Autonomia",
+      "Tecnologia"
+    ]
+  },
+  {
+    "nome": "Genesis",
+    "descricao": "Marca de luxo sul-coreana (subsidiária da Hyundai) que rapidamente estabeleceu um padrão de design e valor no segmento premium.",
+    "criacao": "2015",
+    "link": "https://www.genesis.com/worldwide/en/genesis/our-story.html",
+    "tags": [
+      "Luxo",
+      "Coreano",
+      "Premium",
+      "Design"
+    ]
+  },
+  {
+    "nome": "Nio",
+    "descricao": "Fabricante chinês de veículos elétricos premium, conhecido por seus serviços inovadores de troca de bateria (Battery Swapping).",
+    "criacao": "2014",
+    "link": "https://www.nio.com/about",
+    "tags": [
+      "EV",
+      "Chinês",
+      "Tecnologia",
+      "Premium"
+    ]
+  },
+  {
+    "nome": "Polestar",
+    "descricao": "Marca sueca de performance elétrica, focada em design escandinavo minimalista e sustentabilidade.",
+    "criacao": "1996",
+    "link": "https://www.polestar.com/global/story/",
+    "tags": [
+      "Elétrico",
+      "Performance",
+      "Sueco",
+      "Sustentável"
+    ]
+  },
+  {
+    "nome": "BYD",
+    "descricao": "Gigante chinês de energia e veículos elétricos (NEVs), atualmente um dos maiores produtores de baterias e carros elétricos do mundo.",
+    "criacao": "2003",
+    "link": "https://www.byd.com/en/about-byd.html",
+    "tags": [
+      "Chinês",
+      "EV",
+      "Volume",
+      "Baterias"
+    ]
+  },
+  {
+    "nome": "Subaru",
+    "descricao": "Marca japonesa conhecida por popularizar o sistema de tração integral simétrica (AWD) e seu sucesso em ralis.",
+    "criacao": "1953",
+    "link": "https://www.subaru-global.com/ourstory.html",
+    "tags": [
+      "AWD",
+      "Rally",
+      "Japonês",
+      "Boxer Engine"
+    ]
+  },
+  {
+    "nome": "Cadillac",
+    "descricao": "Marca de luxo americana histórica, atualmente focada em redefinição através da eletrificação e performance esportiva (série V).",
+    "criacao": "1902",
+    "link": "https://www.cadillac.com/history",
+    "tags": [
+      "Americano",
+      "Luxo",
+      "Eletrificação",
+      "Premium"
+    ]
+  },
+  {
+    "nome": "GMC",
+    "descricao": "Divisão da General Motors focada em caminhões e SUVs utilitários, posicionada como a linha premium de trabalho e aventura.",
+    "criacao": "1911",
+    "link": "https://www.gmc.com/history",
+    "tags": [
+      "Caminhonete",
+      "Utilitário",
+      "Americano",
+      "Off-road"
+    ]
+  },
+  {
+    "nome": "Acura",
+    "descricao": "Divisão de luxo da Honda, criada para oferecer performance e sofisticação premium ao mercado global.",
+    "criacao": "1986",
+    "link": "https://www.acura.com/our-story",
+    "tags": [
+      "Japonês",
+      "Luxo",
+      "Performance",
+      "Premium"
+    ]
+  },
+  {
+    "nome": "Lexus",
+    "descricao": "Divisão de luxo da Toyota, estabelecida para competir com as marcas alemãs, famosa por sua confiabilidade e serviço ao cliente de excelência.",
+    "criacao": "1989",
+    "link": "https://www.lexus.com/history",
+    "tags": [
+      "Luxo",
+      "Confiabilidade",
+      "Japonês",
+      "Híbrido"
+    ]
+  }
+]
